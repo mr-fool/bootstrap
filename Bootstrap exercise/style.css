@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    /* The image used */
+    background-image: url("img/00.jpg");
+
+    /* Full height */
+    /*height: 100%;*/
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.form-group{
+	text-align: center;
+}

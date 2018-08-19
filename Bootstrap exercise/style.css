@@ -15,3 +15,11 @@ body {
 .form-group{
 	text-align: center;
 }
+
+#blin {
+	display: flex;
+	/*margin: 0 auto;*/
+	justify-content: center;
+	align-content: flex-end;
+	flex-wrap: wrap;
+}

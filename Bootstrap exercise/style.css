@@ -20,6 +20,8 @@ body {
 	flex-wrap: wrap;
 	justify-content: center;
 	align-content: flex-end;
+    
+
 }
 .footer {
     position: fixed;
@@ -30,4 +32,9 @@ body {
     /*background-color: red;*/
     text-align: right;
     padding-right: 20px;
+}
+
+#blin {
+    position: fixed;
+    top: 50%;
 }
